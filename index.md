@@ -1,4 +1,4 @@
-# title
+# Welcome to Eric's Page!
 
 Here you'll be able to see a list of projects that I'm currently working on/have worked on in the past, plus some fun interactive stuff
 as well!
