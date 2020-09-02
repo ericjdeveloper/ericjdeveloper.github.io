@@ -13,5 +13,5 @@ Eric Jones is a programmer currently attending Carleton University for Computer 
 
 ## Contact me!
 ericjdeveloper@gmail.com
-[my github](github.com/ericjdeveloper)
+[my github](https://www.github.com/ericjdeveloper)
 [linkedIn](https://www.linkedin.com/in/eric-jones-7a98a3195)
